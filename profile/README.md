@@ -57,4 +57,6 @@ With support for a wide range of databases, DbVisualizer enables users to explor
 </table>
 <br>
 
+## More information
+
 For more information and resources, visit our official website at [dbvis.com](https://dbvis.com). There, you can find detailed information about supported databases, explore all the advanced features we offer, download DbVisualizer for free to get started right away. You can also visit [dbvis.com/docs](https://dbvis.com/docs) for our comprehensive User Guide.
