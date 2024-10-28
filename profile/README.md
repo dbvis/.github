@@ -50,7 +50,7 @@ With support for a wide range of databases, DbVisualizer enables users to explor
     <img src="https://d2diavcdqru7hy.cloudfront.net/blog-inner-images/nC6Nxm3Slmtf5IsGxqeTCxg7GuUDMuaRuv8ROy4q.webp" width="40px" alt="SQLite Logo">
   </td>
   <td align="center" style="padding: 10px;">
-<span><a href="https://www.dbvis.com/supported-databases/">...and more</a></span>  
+<span><a href="https://dbvis.com/supported-databases/">...and more</a></span>  
   </td>
  
   </tr>
